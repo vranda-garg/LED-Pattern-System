@@ -1,4 +1,4 @@
-🔵 Bluetooth Controlled LED Pattern System using Arduino
+🔵LED Pattern System
 
 ## 📌 Overview
 This project implements a *Bluetooth-based LED pattern control system* using *Arduino Uno* and the *HC-05 Bluetooth module*.  
